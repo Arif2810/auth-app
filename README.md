@@ -9,7 +9,7 @@ pass : 27April2ooo
 
 ## Instalasi
 
-- Clone / Download aplikasi dari <a href="https://github.com/Arif2810/auth_app">github</a>
+- Clone / Download aplikasi dari <a href="https://github.com/Arif2810/auth-app">github</a>
 - copy file .env.example ke .env
 - Jalankan perintah "composer install" pada terminal
 - Jalankan perintah "php artisan key:generate" pada terminal
